@@ -1,0 +1,175 @@
+
+#regp
+{
+    margin-bottom: 6%;
+    margin-top: 6%;
+    display: flex;
+    justify-content: center;
+
+}
+body{
+    font-family: 'Cairo', sans-serif;
+    margin: 0%;
+    margin-top: 35%;
+    height: 100%;
+    background-image:url(/images/AAAABYkpObDcbIWCwwOhVR5R92xaXxuU1ogoNDYeDBuQ2P4X_1KLpVeJSJd49F0hCBpZWwMK7GuBnm94l6VDo8411Qq1wAua.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sreg
+{
+    margin-top: 33%;
+
+}
+.tilte{
+    margin-bottom: 30%;
+    height: auto;
+    width: 100%;
+    color: white;
+    font-size: 700%;
+    text-align: center;
+}
+.bg{
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+    width: 100%;
+}
+.content{ 
+    margin: 0%;
+    padding-top: 1%;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 30%;
+    height: 400px;
+    object-fit: cover;
+    object-position: top;
+    margin-bottom: 10%;
+
+}
+.ccon{
+font-size: 270%;
+}
+.ifram{
+    text-align: center;
+    padding-top: 3.5% ;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.tr
+{
+height: auto;
+width: 100%;
+color: white;
+font-size: large;
+font-size: 270%;
+}
+iframe{
+    width: 40%;
+    height: 360px;
+    margin-bottom: 10%;
+}
+p{ 
+    width: 45%;
+    font-size: 150%;
+}
+
+.con{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 100%;
+    background-color: white;
+    height: auto;
+    
+}
+.fot{
+    text-align: center;
+    margin: 0%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: aliceblue;
+    font-size: 160%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.link{
+    font-size: 120%;
+    font-weight: 1000;
+}
+button{
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+button:hover{
+    background-color:rgb(163, 157, 157);
+    color: black;
+    cursor: pointer;
+}
+.button{
+    margin-top: 4%;
+    width: 100%;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button:hover{
+    background-color:rgb(163, 157, 157);
+    color: black;
+    cursor: pointer;
+}
+.reg
+{ 
+    padding: 4%;
+    text-align: end;
+    display: flex;
+    flex-direction: column;
+    width: 43%;
+    height: auto;
+    background: rgba(94, 0, 0, 0.5);
+}
+.logcon{
+    color: white;
+}
+input{
+    width: 100%;
+    height: 9%;
+    font-size: large;
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+}
+.tilte2
+{
+
+    margin-bottom: 2%;
+    height: auto;
+    width: 100%;
+    color: white;
+    font-size: 700%;
+    text-align: center;
+}
